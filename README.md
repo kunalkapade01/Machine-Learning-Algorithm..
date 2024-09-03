@@ -1,3 +1,3 @@
 # **Machine Learning Algorithm**
-- **ML**
-  - Dicision Tree
+
+- **Dicision Tree**
