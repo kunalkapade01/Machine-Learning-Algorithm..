@@ -1,2 +1,2 @@
 # **Machine Learning Algorithm**
-- **Dicision Tree: **
+- **Dicision Tree :**
