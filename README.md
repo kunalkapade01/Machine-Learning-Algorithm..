@@ -2,5 +2,5 @@
 - **Dicision Tree :**
 - **Linear regression :**
 - **Logistic Regression :**
-- Random Forest :**
+- **Random Forest :**
 - 
