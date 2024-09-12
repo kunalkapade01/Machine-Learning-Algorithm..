@@ -3,4 +3,5 @@
 - **Linear regression :**
 - **Logistic Regression :**
 - **Random Forest :**
+- **Gradient Descent :**
 - 
