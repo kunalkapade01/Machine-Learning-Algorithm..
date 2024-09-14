@@ -4,4 +4,5 @@
 - **Logistic Regression :**
 - **Random Forest :**
 - **Gradient Descent :**
+- **KNN (K-Nearest Neighbors) :**
 - 
