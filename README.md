@@ -13,4 +13,6 @@
 - **𝐊𝐍𝐍- 𝐄𝐥𝐛𝐨𝐰_𝐌𝐞𝐭𝐡𝐨𝐝 :**
 - **Boosting Techniques :**
   - **Gradient Boosting Technique :**
-  - 
+  - **AdaBoost Technique :**
+  - **XGBoost Implemenatation :**
+- 
