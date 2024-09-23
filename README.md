@@ -15,4 +15,6 @@
   - **Gradient Boosting Technique :**
   - **AdaBoost Technique :**
   - **XGBoost Implemenatation :**
+- **Exploratory Data Analysis (EDA) :**
+- **Fit_Transform using PCA :**
 - 
