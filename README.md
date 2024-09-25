@@ -17,4 +17,5 @@
   - **XGBoost Implemenatation :**
 - **Exploratory Data Analysis (EDA) :**
 - **Fit_Transform using PCA :**
+- **PCA (Principal Component Analysis) :**
 - 
