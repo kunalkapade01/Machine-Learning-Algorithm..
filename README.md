@@ -18,4 +18,6 @@
 - **Exploratory Data Analysis (EDA) :**
 - **Fit_Transform using PCA :**
 - **PCA (Principal Component Analysis) :**
+- **ROC-AUC Score :**
+- **Hierarchical_Clustering Using Agglomerative Method :**
 - 
