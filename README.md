@@ -24,4 +24,4 @@
 - **Resampling Method (Sample, Resample) :**
 - **Recommendation System :**
 - **Naive Bayes :**
-- **Support Vector MAchine :**
+- **Support Vector Machine - (SVM) :**
